@@ -18,11 +18,13 @@ University of Toronto - St. George Campus
 -	**Awards**: Dean's List for 2021 Summer and 2022 Winter, Jackman Scholars-in-Residence Scholarship 2022 and Mary Keenan Award 2022
 
 # Experience
-**Statistical Science Department, University of Toronto -- Statistical Consultant**							                   
+**Statistical Science Department, University of Toronto -- Statistical Consultant**
+
 - Searched ahead on speakers’ research interests and prepared for statistical insights/suggestions that are closely related to their specific research topics.
 - Communicated effectively with speakers from diverse fields/backgrounds in verbal and non-verbal communication.
 
 **Economics Department, University of Toronto -- Research Assistant**
+
 - Used Excel to perform regular data entry tasks and data manipulation independently on annual reports from 1978 to 2020 for the US Railroads and merged data into one file.
 - Used R to clean and visualize the critical data/variables across time for further analysis.
 
